@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://adam.github.io</id>
+    <title>AdamChrist</title>
+    <updated>2021-02-27T15:38:46.758Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://adam.github.io"/>
+    <link rel="self" href="https://adam.github.io/atom.xml"/>
+    <logo>https://adam.github.io/images/avatar.png</logo>
+    <icon>https://adam.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2021, AdamChrist</rights>
+    <entry>
+        <title type="html"><![CDATA[刘婧的简历]]></title>
+        <id>https://adam.github.io/post/liu-jing-de-jian-li/</id>
+        <link href="https://adam.github.io/post/liu-jing-de-jian-li/">
+        </link>
+        <updated>2021-02-27T15:14:17.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="我的简介">我的简介✨</h2>
+<figure data-type="image" tabindex="1"><img src="https://adam.github.io/post-images/1614438902550.jpg" alt="" loading="lazy"></figure>
+<h2 id="我的作品">我的作品🎨</h2>
+<h3 id="pc端">PC端</h3>
+<p><img src="https://adam.github.io/post-images/1614438995258.gif" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614438924987.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614438965946.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439642946.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439660275.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439673786.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439677409.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439706184.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439710363.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439714104.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439717144.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439752738.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439765885.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439794444.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439797805.jpg" alt="" loading="lazy"></p>
+<h3 id="移动端">移动端</h3>
+<p><img src="https://adam.github.io/post-images/1614439666308.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439670233.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439752738.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439757357.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439761399.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439770303.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439774771.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439778846.jpg" alt="" loading="lazy"></p>
+<h3 id="过往作品">过往作品</h3>
+<p><img src="https://adam.github.io/post-images/1614439782819.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439786733.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439790468.jpg" alt="" loading="lazy"><br>
+<img src="https://adam.github.io/post-images/1614439801088.jpg" alt="" loading="lazy"></p>
+]]></content>
+    </entry>
+</feed>
